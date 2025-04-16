@@ -1,1 +1,1 @@
-//Should link categories be an array to include more tags?
+//TODO: Consider if link categories be an array to include more tags?
